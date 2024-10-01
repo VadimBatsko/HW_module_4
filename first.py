@@ -29,3 +29,4 @@ def total_salary(path):
     except FileNotFoundError:
         return 'Файл не знайдено'
     return sum_sallary, sum_sallary // len(one_line)
+

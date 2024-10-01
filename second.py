@@ -29,3 +29,6 @@ def get_cats_info(path):
     except FileNotFoundError:
         return "Неправильне ім'я файлу"
     
+
+
+    
